@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A mobile application able to be used by volunteers on their mission trips to log environmental health factors at their location.",
+    "githubUrl": "https://github.com/SchaefferDuncan/Environmental-Health-Science"
   }
 }
