@@ -37,7 +37,14 @@ What things you need to install the software
 React-Native libraries required for the mobile application to run
 
 - `react`
+- `react-dom`
 - `react-native`
+- `react-native-elements`
+- `react-native-firebase`
+- `react-native-keyboard-aware-scroll-view`
+- `react-native-simple-radio-button`
+- `react-native-maps`
+- `react-native-multiple-select`
 - `expo/expo`
 - `facebook/react`
 - `software-mansion/react-native-gesture-handler`
@@ -50,7 +57,9 @@ React-Native libraries required for the mobile application to run
 - `react-native-form-builder`
 - `react-native-elements`
 - `react-native-vector-icons`
+- `react-native-root-toast`
 - `react-native-simple-toast`
+- `toggle-switch-react-native`
 
 ## Authors
 
